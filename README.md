@@ -11,3 +11,5 @@ Rules:-
 1) If at any level, you guessed the pattern wrong, the game is over.
 2) If the game is over, you have to start it again from level 1.
 3) You can play the game again, after pressing play button or pressing any key on keyboard.
+
+Start playing the game at:- https://rohillakartik6.github.io/Simon-Game/
